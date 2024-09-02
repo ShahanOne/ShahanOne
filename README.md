@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack web developer working at Meithee Tech. <br>I have 2 years of experience in full stack development with 3 internships, 1 full time and 1 part time roles.<br>I am enthusiastic about new tech and advancements in AI.<br>Web development is my passion.<br>
+I am a Full Stack web developer working at Meithee Tech. <br>I have 2 years of experience in full stack development with 3 internships, 1 full time and 1 part time roles.<br>I am enthusiastic about new tech and advancements in AI.<br>I am passionate about Web development and its advancements.<br>
 
 
 ## 🌐 Socials:
